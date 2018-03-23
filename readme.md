@@ -5,4 +5,4 @@ Just something to simply start hacking.
     git clone git@github.com:djacquel/bare-jekyll.git
     cd bare-jekyll
     bundle
-    bundle exec jekyll serve
+    bundle exec jekyll serve   
